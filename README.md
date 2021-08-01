@@ -1,4 +1,4 @@
-# Mod3Final_proj
+# Mod3Final_proj link to presentation https://jeffreyngds.com/a-regression-analysis-on-national-park-trails-1
 Tanzanian Water Well Crisis: Predictive Modeling and Analysis
 
 ## Repository Content
@@ -9,5 +9,8 @@ The project is a Kaggle competition to discover which of the 57,000 water wells 
 
 ## Data Cleaning / Preprocessing
 
+## EDA
+
+
 ## Modelling
-The top performing model was Random Forest which had a 78-79% F1/Precision Score. We wanted to minimize false positives (saying the well is working when it is not) so actual broken wells were being repaired. Through feature importances, the age of the well was the biggest factor in determining the well status. 
+The top performing model was Random Forest with Recursive Feature Elimination and Cross Validation (RFECV) which had a 78-79% F1/Precision Score. We wanted to minimize false positives (saying the well is working when it is not) so actual broken wells were being repaired. Through feature importances, the age of the well was the biggest factor in determining the well status. 
