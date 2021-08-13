@@ -3,10 +3,10 @@ Tanzanian Water Well Crisis: Predictive Modeling and Analysis
 
 ## Repository Content
 1. csv data 
-2. EDA and visualizations notebook 
-3. CleanNB - Data cleaning, EDA, and modeling notebook  
-4. EDA_Viz_mod3_proj contains the EDA and graphs and figures used in presentation deck 
-5. Presentation deck
+2. CleanNB - Data cleaning, EDA, and modeling notebook  
+3. EDA_Viz_mod3_proj contains the EDA and graphs and figures used in presentation deck 
+4. Presentation deck
+5. readme.md
 
 ## Project Scope
 The project is a Kaggle competition to predict which of the 57,000 water wells in Tanzania were non functional, functional, or needed repair. The independent features included location, age, issuing entity, and water quality. The well status was the dependent variables. 
