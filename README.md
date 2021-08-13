@@ -2,7 +2,7 @@
 Tanzanian Water Well Crisis: Predictive Modeling and Analysis
 
 ## Repository Content
-1. csv data, 2 jupyter notebooks: 
+1. csv data 
 2. EDA and visualizations notebook 
 3. CleanNB - Data cleaning, EDA, and modeling notebook  
 4. EDA_Viz_mod3_proj contains the EDA and graphs and figures used in presentation deck 
